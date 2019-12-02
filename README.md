@@ -1,6 +1,6 @@
-React App (example)
+### React App (example of charts)
 
-About
+## About
 
 This application builds «Cash flow charts».
 An example of displaying data by day, month or year.
@@ -12,5 +12,7 @@ The application uses the following main libraries:
   - react-chartjs-2
   - @bem-react
 
-command to run the application with json-server:
-npm run start & npm run watch
+In the project directory, you can run (with json-server):
+
+### `npm run start & npm run watch` 
+
